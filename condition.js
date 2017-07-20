@@ -9,4 +9,4 @@ function getRandonWinner(index) {
 }
 
 // Prints out a random name based to the function
-console.log(people[getRandonWinner(people.lenghr)]);
+console.log(people[getRandonWinner(people.length)]);
